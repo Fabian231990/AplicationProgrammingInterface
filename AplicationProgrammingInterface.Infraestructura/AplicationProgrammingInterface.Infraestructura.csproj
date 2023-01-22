@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AplicationProgrammingInterface.Persistencia\AplicationProgrammingInterface.Persistencia.csproj" />
+    <ProjectReference Include="..\AplicationProgrammingInterface.Entidades\AplicationProgrammingInterface.Entidades.csproj" />
+  </ItemGroup>
+
+</Project>
